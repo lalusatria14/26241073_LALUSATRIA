@@ -1,0 +1,13 @@
+masukkan nama :LALU SATRIA PURNAMA AZI
+masukkan nim : 26241073
+program studi : PENDIDIKAN TEKNILOGI INFORMASI
+2 digit nim : 73
+==========output==========
+Nama: LALU SATRIA PURNAMA AZI
+Nim: 26241073
+Program studi : PENDIDIKAN TEKNILOGI INFORMASI
+Dua Digit Terakhir Nim: 73
+Tipe data Nama: <class 'str'>
+Tipe data Nim: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit Terakhir NIM: <class 'int'>
