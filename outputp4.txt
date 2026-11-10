@@ -1,0 +1,12 @@
+2 digit terakhir NIM: 73
+Digit terakhir NIM: 3
+Angka pertama: 73
+Angka kedua: 4
+--- Hasil 7 Operasi ---
+penjumlahan : 77
+pengurangan : 69
+perkalian : 292
+pembagian : 18.25
+floor dividion : 18
+modulus : 1
+perpangkatan : 28398241
